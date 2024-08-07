@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OnurKalkan12
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning SQL
+- 🌱 I’m a Linux System Administrator 
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me: (https://www.linkedin.com/in/onur--kalkan/)
 

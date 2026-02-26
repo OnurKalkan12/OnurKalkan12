@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnurKalkan12
-- 👀 I’m interested in cloud computing
-- 🌱 I’m a Linux System Administrator 
-- 💞️ I’m looking to collaborate on cloud projects
+- Interested in cloud computing
+- Linux System Administrator 
+- Looking to collaborate on cloud projects
 - 📫 How to reach me: (https://www.linkedin.com/in/onur--kalkan/)
 
 <!---

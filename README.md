@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnurKalkan12
-- Interested in cloud computing
+- Interested in automation, server infrastructure, and marketing
 - Linux System Administrator 
-- Looking to collaborate on cloud projects
+- Looking to collaborate on automation projects
 - 📫 How to reach me: (https://www.linkedin.com/in/onur--kalkan/)
 
 <!---

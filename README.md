@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OnurKalkan12
-- Interested in automation, server infrastructure, and marketing
+- Interested in automation, server infrastructure, and networking
 - Linux System Administrator 
 - Looking to collaborate on automation projects
 - 📫 How to reach me: (https://www.linkedin.com/in/onur--kalkan/)
